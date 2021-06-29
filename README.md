@@ -10,7 +10,24 @@ An ~~Open Source~~ ALL-In-One Telegram RoBot, that can do lot of things.
 
 * [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 * [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
+* 
+Deploy
+You can deploy this bot anywhere.
 
+<i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
+
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/Annu9080/Adv-Auto-Filter-Bot-V2/tree/main">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
+
+<details><summary>Deploy To VPS</summary>
+<p>
+<pre>
 
 - For FeedBack and Suggestions, please feel free to say in [@SpEcHlDe](https://telegram.dog/ThankTelegram)
 
